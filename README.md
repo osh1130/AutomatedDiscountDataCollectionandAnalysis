@@ -14,9 +14,10 @@ To achieve continuous integration, I connected my Python program, GitHub, and Je
 
 ## Power BI
 Given variations in discounts over time, I harnessed Power BI's capabilities to visualize the data sourced from MySQL. This enabled direct analysis of discount changes and trends through filtered and grouped data. Daily refreshing from MySQL facilitated up-to-date insights.
-[![powerbi1.png](https://i.postimg.cc/13ZK5nk0/powerbi1.png)](https://postimg.cc/1fJFvt54)
-[![powerbi2.png](https://i.postimg.cc/1zmcDx5f/powerbi2.png)](https://postimg.cc/cvznNb3S)
-[![powerbi3.png](https://i.postimg.cc/DyGgTdMy/powerbi3.png)](https://postimg.cc/7fx7174p)
+[![powerbi1.png](https://i.postimg.cc/ryxhRn3W/powerbi1.png)](https://postimg.cc/jCq6GXsd)
+[![powerbi2.png](https://i.postimg.cc/hPn2L8RY/powerbi2.png)](https://postimg.cc/PN6bhwxb)
+[![powerbi3.png](https://i.postimg.cc/Yqxbb4pC/powerbi3.png)](https://postimg.cc/PPPWq5pg)
+
 
 ## Todo
 - **Data Visualization and Reporting:** Creating diverse charts and dashboards to visually represent discount trends for quick insights and decision-making.
