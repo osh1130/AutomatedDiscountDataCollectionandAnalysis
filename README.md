@@ -5,7 +5,7 @@ Utilizing the Python programming language, I employed HTTP requests to access th
 
 ## My SQL
 Building upon various models and specific information available on the Spark website, I populated the "phones" table in the "oppo" database. This included daily promotional activities for each model, encompassing discounts and giveaways, stored in the "sparksale" table. A one-to-many relationship was established between these tables to efficiently manage the data.
-[![mysql1.png](https://i.postimg.cc/RZQL3Cmk/mysql1.png)](https://postimg.cc/TK1DF6p0)
+[![mysql1.png](https://i.postimg.cc/Rh7XrhKG/mysql1.png)](https://postimg.cc/30wgmKLD)
 
 ## Jenkins
 To achieve continuous integration, I connected my Python program, GitHub, and Jenkins. I scheduled daily executions and sent newly generated discount information Excel sheets via email. The process involves setting up a GitHub repository, installing Jenkins, configuring a Jenkins job, scheduling builds, enabling email notifications, and optionally using GitHub webhooks for automation.
