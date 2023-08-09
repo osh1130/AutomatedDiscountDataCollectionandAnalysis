@@ -8,8 +8,7 @@ Building upon various models and specific information available on the Spark web
 
 ## Jenkins
 To achieve continuous integration, I connected my Python program, GitHub, and Jenkins. I scheduled daily executions and sent newly generated discount information Excel sheets via email. The process involves setting up a GitHub repository, installing Jenkins, configuring a Jenkins job, scheduling builds, enabling email notifications, and optionally using GitHub webhooks for automation.
-[url=https://postimg.cc/LqZRrYHD][img]https://i.postimg.cc/LqZRrYHD/jenkins1.png[/img][/url]
-[url=https://postimg.cc/QVZctwyN][img]https://i.postimg.cc/QVZctwyN/jenkins2.png[/img][/url]
+[jenkins1.png](https://postimg.cc/LqZRrYHD)
 
 ## Power BI
 Given variations in discounts over time, I harnessed Power BI's capabilities to visualize the data sourced from MySQL. This enabled direct analysis of discount changes and trends through filtered and grouped data. Daily refreshing from MySQL facilitated up-to-date insights.
