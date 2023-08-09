@@ -1,4 +1,4 @@
-# Project Experience: Automated Discount Data Collection and Analysis
+# Automated Discount Data Collection and Analysis
 
 ## Python
 Utilizing the Python programming language, I employed HTTP requests to access the Spark website's Ajax-powered interface. Extracting data from the responses, I gathered information about various phone models. Subsequently, I used the Selenium module to simulate user interactions, accessing detailed information pages for each phone. This allowed me to retrieve discount information, which I recorded in both an Excel sheet and a MySQL database simultaneously.
